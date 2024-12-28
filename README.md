@@ -8,10 +8,10 @@ Açık kaynak gelişimine ve topluluk ile birlikte gelişen projelere çok sayg�
 
 görüp görülebilecek en büyük açık kaynak ürünü olan LİNUX dağıtımlarını deniyor,öğreniyor ve bash scriptleri ile çalışmayı seviyorum.
 
- projelerimi aktif olarak docker üzerinde çalıştırıyorum,CI/CD süreçlerini de projelerime entegre edip kullanıyorum.
+
  
 
-Veri yapıları, algoritmalar, sistem güvenliği ve yazılım mimarisi gibi konular üzerinde derinlemesine çalışmaktan hoşlanıyorum.Oluyor işte mantığından uzaklaşıp bundan dolayı oluyormuş dediğim her an içimdeki duygu değişmiyor.
+Veri yapıları, algoritmalar, sistem güvenliği ve yazılım mimarisi gibi konular üzerinde derinlemesine çalışmaktan hoşlanıyorum."Oluyor işte" mantığından uzaklaşıp bundan dolayı oluyormuş dediğim her an içimdeki duygu değişmiyor.
 
 
 Yeni teknolojiler öğrenmek benim için büyük bir tutku. Bilgimi ve becerilerimi sürekli güncelleyerek daha iyi yazılım çözümleri üretebilmeyi hedefliyorum Ve tabiki topluluğa katkı sunmayı.
