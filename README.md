@@ -1,4 +1,4 @@
-Merhaba, Ben Kerim! 👋
+Merhaba, Ben Kerim! 
 
 
 Güncel olarak siber güvenlik, sistem güvenliği ve ağ analizleri üzerinde çalışıyorum. Özellikle siber güvenlik alanında derinlemesine araştırmalar yapmaktan, penetrasyon testleri ve güvenlik açıklarını keşfetmekten büyük keyif alıyorum. Güvenli yazılım geliştirme teknikleri öğrenmeye de özen gösteriyorum.
